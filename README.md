@@ -11,4 +11,4 @@ scheduling task for embedded system with python
 ### DM scheduling:
 ![image](imgs/Figure_1_DM.jpeg)
 ### RM with resources scheduling:
-![image](imgs/Figure_1_RM with resource.jpeg)
+![image](imgs/Figure_1_RM_with_resource.jpeg)
